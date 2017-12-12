@@ -26,6 +26,7 @@ type **p.help** and see all for youself!
 
 ---
 
-[![Discord Bots](https://discordbots.org/api/widget/330488924449275916.png)](https://discordbots.org/bot/330488924449275916)
-
+ [![](https://discordapp.com/api/guilds/334745231163654145/embed.png?style=banner2)](https://discord.gg/3Chh8gu)
+ 
+ 
 "Discord", "Discord App", and any associated logos are registered trademarks of Hammer & Chisel, inc.
