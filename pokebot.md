@@ -23,3 +23,7 @@ The Rest Of PokeBot's Commands Are All Viewable by the bot! Join our <a href=" h
 type **p.help** and see all for youself!
 
 ---
+
+[![Discord Bots](https://discordbots.org/api/widget/330488924449275916.png)](https://discordbots.org/bot/330488924449275916)
+
+"Discord", "Discord App", and any associated logos are registered trademarks of Hammer & Chisel, inc.
