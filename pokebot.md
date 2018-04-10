@@ -10,6 +10,7 @@
 | pokemon           | Captures a pokemon into your inventory |
 | berries          | Allows the user to recieve random berries  |
 | battle          | The User Becomes A Pokemon doing many attacks and engages in a Poke-Battle against another user or the BOT.   |
+| fight        | Alternative to `battle` |
 | binfo        | Gives Info on a Pokemon Berry     |
 | inventory         | Shows your or others pokemon inventory. |
 | binventory       | Shows your or others berry inventory.  |
