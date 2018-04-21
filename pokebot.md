@@ -3,7 +3,7 @@
 ## Commands of <a href="https://github.com/Wonder-Toast/Pokebot">PokéBot</a> 📖 
 
 [![Discord Bots](https://discordbots.org/api/widget/status/330488924449275916.png)](https://discordbots.org/bot/330488924449275916)
-[![Discord Bots](https://discordbots.org/api/widget/servers/330488924449275916.png)](https://discordbots.org/bot/330488924449275916)
+
 
 | Name        | Info         |
 | ------------- |---------------|
